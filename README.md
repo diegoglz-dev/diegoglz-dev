@@ -12,6 +12,7 @@
 [![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat)](https://github.com/diegoglz-dev)
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)](https://github.com/diegoglz-dev)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)](https://github.com/diegoglz-dev)
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)](https://github.com/diegoglz-dev)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)](https://github.com/diegoglz-dev)
 [![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=flat)](https://github.com/diegoglz-dev)
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)](https://github.com/diegoglz-dev)
@@ -26,7 +27,7 @@
 [![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)](https://github.com/diegoglz-dev)
 
 # 📫 Contacto
-[![Twitter: diegoglz_dev](https://img.shields.io/twitter/follow/diegoglz_dev?&style=social)](https://twitter.com/diegoglz_dev)
+[![Twitter: diegoglz_dev](https://img.shields.io/twitter/follow/diegoglz_dev?&style=social)](https://x.com/diegoglz_dev)
 [![Linkedin: gonzalezdiegoandres](https://img.shields.io/badge/-gonzalezdiegoandres-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzalezdiegoandres/)](https://www.linkedin.com/in/gonzalezdiegoandres/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:gonzalezdiego1990@gmail.com)
 [![GitHub diegoglz-dev](https://img.shields.io/github/followers/diegoglz-dev?label=Follow&style=social)](https://github.com/diegoglz-dev)
