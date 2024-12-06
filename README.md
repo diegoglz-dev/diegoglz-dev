@@ -30,6 +30,7 @@
 [![Twitter: diegoglz_dev](https://img.shields.io/twitter/follow/diegoglz_dev?&style=social)](https://x.com/diegoglz_dev)
 [![Linkedin: gonzalezdiegoandres](https://img.shields.io/badge/-gonzalezdiegoandres-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzalezdiegoandres/)](https://www.linkedin.com/in/gonzalezdiegoandres/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:gonzalezdiego1990@gmail.com)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)](https://www.youtube.com/@diegoglz)
 [![GitHub diegoglz-dev](https://img.shields.io/github/followers/diegoglz-dev?label=Follow&style=social)](https://github.com/diegoglz-dev)
 
 <!-- Recursos para template: https://github.com/kautukkundan/Awesome-Profile-README-templates -->
