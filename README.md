@@ -12,7 +12,7 @@
 [![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat)](https://github.com/diegoglz-dev)
 [![Livewire Badge](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=fff&style=flat)](https://github.com/diegoglz-dev)
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)](https://github.com/diegoglz-dev)
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)](https://github.com/diegoglz-dev)
+[![CSS3 Badge](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff&style=flat)](https://github.com/diegoglz-dev)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)](https://github.com/diegoglz-dev)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)](https://github.com/diegoglz-dev)
 [![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=flat)](https://github.com/diegoglz-dev)
